@@ -14,3 +14,8 @@ Instead of reading a boring PDF, users can explore data visualizations, walk thr
 * **Comparison Engine:** Visualizes the difference between legacy "Rules-based" systems and modern "AI" detection.
 * **Downloadable:** Users can save the entire report as a PDF or HTML file for offline use.
 
+## 🛠️ Tech Stack
+* **Core:** HTML5, Vanilla JavaScript (No heavy frameworks).
+* **Styling:** Tailwind CSS (via CDN) for a responsive, modern layout.
+* **Visualization:** Chart.js for rendering performance and radar/doughnut charts.
+* **Architecture:** Single Page Application (SPA) contained within one file.
